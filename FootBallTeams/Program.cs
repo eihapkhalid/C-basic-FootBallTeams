@@ -3,7 +3,7 @@ using System.Linq;
 using System.Collections.Generic; // becuse list need it
 namespace FootBallTeams
 {
-
+//Hi am viewd this project am khatomi 
     #region Team Info
     //struct Team Info
     public struct Team
